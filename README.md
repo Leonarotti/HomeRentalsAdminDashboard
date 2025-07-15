@@ -9,7 +9,7 @@ A simple admin dashboard to manage rental properties. Built with React + Vite.
 - See current weather for each property (via OpenWeatherMap)
 
 ## Demo
-Live URL: [https://your-vercel-url.vercel.app]()
+Live URL: [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard.vercel.app)
 
 ## Login Credentials
 ```
